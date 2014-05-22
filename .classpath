@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="JogoDaMemoria/src"/>
+	<classpathentry kind="src" path="Projetos .zip/Cenario_Ex2/src"/>
+	<classpathentry kind="src" path="Projetos .zip/Cenario_Ex3/Cenario_Ex3/src"/>
+	<classpathentry kind="lib" path="Projetos .zip/Cenario_Ex3/Cenario_Ex3/dist/Cenario_Ex3.jar"/>
+	<classpathentry kind="lib" path="Projetos .zip/Cenario_Ex3/Cenario_Ex3/dist/lib/Jplay.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="Projetos .zip/Cenario_Ex3/Cenario_Ex3/build/classes"/>
+</classpath>
